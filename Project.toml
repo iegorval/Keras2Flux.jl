@@ -1,0 +1,13 @@
+name = "Keras2Flux"
+uuid = "d83f6d62-e0dd-43fd-9d0b-aec97e4fd7de"
+authors = ["Valeria Iegorova <iegorval@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
