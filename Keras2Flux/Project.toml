@@ -1,0 +1,4 @@
+name = "Keras2Flux"
+uuid = "634c2215-0c33-41e7-850c-87b4e2a6d96f"
+authors = ["Valeria Iegorova <iegorval@gmail.com>"]
+version = "0.1.0"
